@@ -18,14 +18,14 @@ import re
 # ============================================================
 # CONFIG — swap these for a new niche/city clone
 # ============================================================
-BUSINESS_NAME = "San Antonio Handyman Pros"
+BUSINESS_NAME = "San Antonio Handyman Experts"
 CITY = "San Antonio"
 STATE = "TX"
 STATE_FULL = "Texas"
-DOMAIN = "sanantoniohandymanpros.com"          # PLACEHOLDER — pick your real domain
+DOMAIN = "sanantoniohandymanexperts.com"        # PLACEHOLDER — pick your real domain
 PHONE_DISPLAY = "(210) 555-0142"                # PLACEHOLDER — forwarding number
 PHONE_TEL = "+12105550142"                      # PLACEHOLDER — E.164 for tel: links
-EMAIL = "leads@sanantoniohandymanpros.com"      # PLACEHOLDER — forwarding inbox
+EMAIL = "leads@sanantoniohandymanexperts.com"   # PLACEHOLDER — forwarding inbox
 ADDRESS_LOCALITY = "San Antonio"
 ADDRESS_REGION = "TX"
 LATITUDE = "29.4241"

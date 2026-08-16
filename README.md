@@ -50,7 +50,7 @@ Alternatives: Vercel, GitHub Pages, or any $5/mo static host — just note that 
 
 ## Why it's unbranded
 
-There's no "Creative Factorial" anywhere in the code, footer, meta tags, or schema markup — the business identity is a generic, keyword-relevant placeholder name ("San Antonio Handyman Pros") so leads can be forwarded to whichever partner business you land without any connection back to your agency. Swap `BUSINESS_NAME` in `generate.py` any time — e.g. once you sign a partner, you may want to rename it to match their actual business for trust/consistency, or keep it generic. Either works; regenerate after changing it.
+There's no "Creative Factorial" anywhere in the code, footer, meta tags, or schema markup — the business identity is a generic, keyword-relevant placeholder name ("San Antonio Handyman Experts") so leads can be forwarded to whichever partner business you land without any connection back to your agency. Swap `BUSINESS_NAME` in `generate.py` any time — e.g. once you sign a partner, you may want to rename it to match their actual business for trust/consistency, or keep it generic. Either works; regenerate after changing it.
 
 ## SEO decisions baked in
 
