@@ -411,7 +411,7 @@ def head(title, description, path, extra_schema_html=""):
 <meta property="og:site_name" content="{BUSINESS_NAME}">
 
 <link rel="stylesheet" href="/css/style.css">
-<link rel="icon" href="data:,">
+<link rel="icon" type="image/png" href="/handyman-icon.png">
 
 <!-- ====== ANALYTICS PLACEHOLDERS — fill in before launch, see README ====== -->
 <!-- Google Analytics 4 (GA4) -->
